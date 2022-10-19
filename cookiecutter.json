@@ -1,0 +1,9 @@
+{
+  "project_name": "Python Boilerplate",
+  "full_name": "Felix Capuano",
+  "email": "felix.capuano@gmail.com",
+  "github_username": "felixcapuano",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Template description",
+  "version": "0.1.0"
+}
